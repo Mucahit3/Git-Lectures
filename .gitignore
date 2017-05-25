@@ -1,1 +1,5 @@
 database
+
+documents/*
+
+!documents/dosya1.html
